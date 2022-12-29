@@ -709,6 +709,31 @@ body.dark{
   color: black;
 }
 
+body.dark .nav-links li a {
+  color: black;
+  cursor: pointer;
+}
+
+ body.dark .cir_border {
+  padding: 6px 20px;
+  font-weight: bold;
+  border: 2px hidden black;
+  border-radius: 20px;
+  margin: 0px -10px;
+}
+
+body.dark .logo {
+  font-family: var(--ff-rubik-dirt);
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4rem;
+  padding: 0 1.5rem;
+  font-weight: 300;
+  color: rgb(0, 0, 0); 
+  
+  
+}
+
 .checkbox {
   opacity: 0;
   position: absolute;
