@@ -720,6 +720,7 @@ img:hover {
 }
 
 body {
+  
  background-color: black;
   color: white;
 }
@@ -740,6 +741,10 @@ body.dark .nav-links li a {
   border: 2px hidden black;
   border-radius: 20px;
   margin: 0px -10px;
+}
+
+body.dark .cir_border:hover{
+  color: #FF6B6B
 }
 
 body.dark .logo {
