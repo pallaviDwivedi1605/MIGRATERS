@@ -224,6 +224,7 @@ header {
 }
 
 /* Events */
+
 #evttitle{
   padding-top: 5rem;
 }
@@ -353,6 +354,7 @@ section {
 }
 
 /* tours */
+
 #tourdiv{
   padding-top: 4rem;
 }
@@ -397,9 +399,11 @@ section {
   bottom: -14%;
 }
 
+
 /* about */
 #about {
   width: 100%;
+  margin-bottom: 40px;
 }
 
 #abouttitle{
@@ -472,6 +476,7 @@ section {
   margin: 0;
   color: black;
 }
+
 
 /* contact */
 #contact {
